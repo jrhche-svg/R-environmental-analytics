@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "Please cite this repository if you use these examples."
+title: "Environmental Analytics in R"
+type: software
+authors:
+  - family-names: Henderson
+    given-names: James R.
