@@ -1,6 +1,6 @@
 # Environmental Analytics in R
 
-Selected R examples by James R. (Jamie) Henderson demonstrating environmental-data visualization, statistical sampling design, Sankey diagrams, and synthetic machine-learning workflows.
+Selected R examples by James R. (Jamie) Henderson MS, PE demonstrating environmental-data visualization, statistical sampling design, Sankey diagrams, and synthetic machine-learning workflows.
 
 This public starter intentionally excludes client data, litigation work product, project-specific datasets, local file paths, and generated deliverables.
 
